@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time: 0 | D = 0 | clk = 0 | reset = 1 | Q = x
+Time: 5000 | D = 0 | clk = 1 | reset = 1 | Q = 0
+Time: 10000 | D = 1 | clk = 0 | reset = 0 | Q = 0
+Time: 15000 | D = 1 | clk = 1 | reset = 0 | Q = 1
+Time: 20000 | D = 0 | clk = 0 | reset = 0 | Q = 1
+Time: 25000 | D = 0 | clk = 1 | reset = 0 | Q = 0
+Time: 30000 | D = 1 | clk = 0 | reset = 0 | Q = 0
+Time: 35000 | D = 1 | clk = 1 | reset = 0 | Q = 1
+Time: 40000 | D = 1 | clk = 0 | reset = 1 | Q = 1
+Time: 45000 | D = 1 | clk = 1 | reset = 1 | Q = 0
+Time: 50000 | D = 0 | clk = 0 | reset = 0 | Q = 0
+Time: 55000 | D = 0 | clk = 1 | reset = 0 | Q = 0
+$finish called at time : 60 ns : File "D:/LAB/Vlsi/d_flip_flop/d_flip_flop.srcs/sim_1/new/d_flip_flop_tb.v" Line 75

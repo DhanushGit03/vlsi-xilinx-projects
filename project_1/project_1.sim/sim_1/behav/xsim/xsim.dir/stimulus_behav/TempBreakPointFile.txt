@@ -1,0 +1,3 @@
+Breakpoint File Version 1.0
+36,true,"D:/LAB/Vlsi/project_1/project_1.srcs/sim_1/new/stimulus.v"
+33,true,"D:/LAB/Vlsi/project_1/project_1.srcs/sim_1/new/stimulus.v"

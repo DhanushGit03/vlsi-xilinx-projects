@@ -1,0 +1,4 @@
+Running: xsim.dir/NOT_nand_nor_behav/xsimk.exe -simmode gui -wdb NOT_nand_nor_behav.wdb -simrunnum 0 -socket 51093
+Design successfully loaded
+Design Loading Memory Usage: 10236 KB (Peak: 10236 KB)
+Design Loading CPU Usage: 31 ms

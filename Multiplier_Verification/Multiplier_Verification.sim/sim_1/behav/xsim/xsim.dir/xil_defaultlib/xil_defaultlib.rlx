@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v,1726990228,verilog,,,,design_1_wrapper,,,,,,,,
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/ip/design_1_mult_gen_0_0/sim/design_1_mult_gen_0_0.vhd,1726989299,vhdl,,,,design_1_mult_gen_0_0,,,,,,,,
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v,1726990228,verilog,,D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/ip/design_1_xlconstant_1_0/sim/design_1_xlconstant_1_0.v,,design_1_xlconstant_0_0,,,,,,,,
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/ip/design_1_xlconstant_1_0/sim/design_1_xlconstant_1_0.v,1726990228,verilog,,D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v,,design_1_xlconstant_1_0,,,,,,,,
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/sim/design_1.v,1726990228,verilog,,D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.ip_user_files/bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v,,design_1,,,,,,,,
+D:/LAB/Vlsi/Multiplier_Verification/Multiplier_Verification.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,

@@ -1,0 +1,47 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Oct 21 15:33:59 2024
+# Process ID: 1184
+# Current directory: D:/LAB/Vlsi/Latches and Flip-Flops/SR_Latch
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16220 D:\LAB\Vlsi\Latches and Flip-Flops\SR_Latch\SR_Latch.xpr
+# Log file: D:/LAB/Vlsi/Latches and Flip-Flops/SR_Latch/vivado.log
+# Journal file: D:/LAB/Vlsi/Latches and Flip-Flops/SR_Latch\vivado.jou
+# Running On        :DESKTOP-6LL4KK0
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7887 MB
+# Swap memory       :6710 MB
+# Total Virtual     :14597 MB
+# Available Virtual :4350 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/LAB/Vlsi/Latches and Flip-Flops/SR_Latch/SR_Latch.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source sr_latch_tb.tcl
+open_project {D:/LAB/Vlsi/Latches and Flip-Flops/d_latch/d_latch.xpr}
+update_compile_order -fileset sources_1
+current_project SR_Latch
+close_sim
+close_project
+close_project
+open_project {D:/LAB/Vlsi/Latches and Flip-Flops/d_latch/d_latch.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project {D:/LAB/Vlsi/Latches and Flip-Flops/d_flip_flop/d_flip_flop.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source d_flip_flop_tb.tcl
+close_sim
+close_project
+open_project {D:/LAB/Vlsi/Latches and Flip-Flops/sr_flip_flop/sr_flip_flop.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation

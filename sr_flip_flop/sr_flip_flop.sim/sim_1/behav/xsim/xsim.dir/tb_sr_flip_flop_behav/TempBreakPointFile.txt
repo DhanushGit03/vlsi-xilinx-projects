@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+33,true,"D:/LAB/Vlsi/sr_flip_flop/sr_flip_flop.srcs/sources_1/new/sr_flip_flop.v"

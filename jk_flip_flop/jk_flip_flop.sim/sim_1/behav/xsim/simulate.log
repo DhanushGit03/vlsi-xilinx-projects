@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time = 0 | J = 0 | K = 0 | Reset = 1 | Q = 0 | Q_bar = 1
+Time = 10000 | J = 0 | K = 0 | Reset = 0 | Q = 0 | Q_bar = 1
+Time = 30000 | J = 0 | K = 1 | Reset = 0 | Q = 0 | Q_bar = 1
+Time = 40000 | J = 1 | K = 0 | Reset = 0 | Q = 0 | Q_bar = 1
+Time = 45000 | J = 1 | K = 0 | Reset = 0 | Q = 1 | Q_bar = 0
+Time = 50000 | J = 1 | K = 1 | Reset = 0 | Q = 1 | Q_bar = 0
+Time = 55000 | J = 1 | K = 1 | Reset = 0 | Q = 0 | Q_bar = 1
+Time = 65000 | J = 1 | K = 1 | Reset = 0 | Q = 1 | Q_bar = 0
+Time = 70000 | J = 1 | K = 1 | Reset = 1 | Q = 0 | Q_bar = 1
+Time = 80000 | J = 1 | K = 1 | Reset = 0 | Q = 0 | Q_bar = 1
+Time = 85000 | J = 1 | K = 1 | Reset = 0 | Q = 1 | Q_bar = 0
+Time = 90000 | J = 0 | K = 0 | Reset = 0 | Q = 1 | Q_bar = 0
+$finish called at time : 100 ns : File "D:/LAB/Vlsi/jk_flip_flop/jk_flip_flop.srcs/sim_1/new/tb_jk_flip_flop.v" Line 81

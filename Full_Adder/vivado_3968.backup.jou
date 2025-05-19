@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Sep 24 17:26:33 2024
+# Process ID: 3968
+# Current directory: D:/LAB/Vlsi/Full_Adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7140 D:\LAB\Vlsi\Full_Adder\project_2.xpr
+# Log file: D:/LAB/Vlsi/Full_Adder/vivado.log
+# Journal file: D:/LAB/Vlsi/Full_Adder\vivado.jou
+# Running On        :DESKTOP-6LL4KK0
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7887 MB
+# Swap memory       :9124 MB
+# Total Virtual     :17011 MB
+# Available Virtual :2052 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/LAB/Vlsi/Full_Adder/project_2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config D:/LAB/Vlsi/Full_Adder/stimuli_behav.wcfg
+source stimuli.tcl
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_sim

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Sep 21 14:56:40 2024
+# Process ID: 9592
+# Current directory: D:/LAB/Vlsi/project_2/project_2.runs/impl_1
+# Command line: vivado.exe -log full_adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source full_adder.tcl -notrace
+# Log file: D:/LAB/Vlsi/project_2/project_2.runs/impl_1/full_adder.vdi
+# Journal file: D:/LAB/Vlsi/project_2/project_2.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-6LL4KK0
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7887 MB
+# Swap memory       :6174 MB
+# Total Virtual     :14061 MB
+# Available Virtual :3123 MB
+#-----------------------------------------------------------
+source full_adder.tcl -notrace
